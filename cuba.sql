@@ -3,9 +3,9 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Feb 20, 2023 at 10:54 PM
+-- Generation Time: May 11, 2023 at 11:13 AM
 -- Server version: 5.7.33
--- PHP Version: 7.3.1
+-- PHP Version: 8.1.14
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -43,7 +43,7 @@ CREATE TABLE `coba` (
 --
 
 INSERT INTO `coba` (`id`, `nama`, `phone`, `alamat`, `jenis_kelamin`, `email`, `created_at`, `updated_at`) VALUES
-(3, 'Lulu Falya Tantri', '082190783926', 'Jln. Cantiq', 'perempuan', 'Fallyaaa123@gmail.com', NULL, NULL);
+(5, 'Rafli', '081628190351', 'Jln. Matahari', 'laki-laki', 'fayyyyy@gmail.com', NULL, NULL);
 
 -- --------------------------------------------------------
 
@@ -156,7 +156,7 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT for table `coba`
 --
 ALTER TABLE `coba`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 
 --
 -- AUTO_INCREMENT for table `failed_jobs`
