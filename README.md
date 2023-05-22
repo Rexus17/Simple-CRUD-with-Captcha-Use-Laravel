@@ -7,55 +7,26 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## View Data Students
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<p align="left"><a href="https://github.com/Rexus17/Simple-CRUD-with-Captcha-Use-Laravel/blob/master/preview%20picture%20project%20for%20github/Screenshot%20(457).png" target="_blank"><img src="https://github.com/Rexus17/Simple-CRUD-with-Captcha-Use-Laravel/blob/master/preview%20picture%20project%20for%20github/Screenshot%20(457).png" width="400"></a></p>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+you can see all students entered by the user in this area
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## View Entering Students
 
-## Learning Laravel
+<p align="left"><a href="https://github.com/Rexus17/Simple-CRUD-with-Captcha-Use-Laravel/blob/master/preview%20picture%20project%20for%20github/Screenshot%20(458).png" target="_blank"><img src="https://github.com/Rexus17/Simple-CRUD-with-Captcha-Use-Laravel/blob/master/preview%20picture%20project%20for%20github/Screenshot%20(458).png" width="400"></a></p>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+you can inserting new students with form in this area, and you will enter captcha before update the data
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Show one data students
 
-## Laravel Sponsors
+<p align="left"><a href="https://github.com/Rexus17/Simple-CRUD-with-Captcha-Use-Laravel/blob/master/preview%20picture%20project%20for%20github/Screenshot%20(459).png" target="_blank"><img src="https://github.com/Rexus17/Simple-CRUD-with-Captcha-Use-Laravel/blob/master/preview%20picture%20project%20for%20github/Screenshot%20(459).png" width="400"></a></p>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+you can click show button and will be show one data on your clicked
 
-### Premium Partners
+## View Update Data Students
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
+<p align="left"><a href="https://github.com/Rexus17/Simple-CRUD-with-Captcha-Use-Laravel/blob/master/preview%20picture%20project%20for%20github/Screenshot%20(459).png" target="_blank"><img src="https://github.com/Rexus17/Simple-CRUD-with-Captcha-Use-Laravel/blob/master/preview%20picture%20project%20for%20github/Screenshot%20(459).png" width="400"></a></p>
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+you can update the data after your insert, and you will enter captcha before update the data
