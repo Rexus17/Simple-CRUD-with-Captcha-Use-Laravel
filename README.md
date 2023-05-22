@@ -30,3 +30,7 @@ you can click show button and will be show one data on your clicked
 <p align="left"><a href="https://github.com/Rexus17/Simple-CRUD-with-Captcha-Use-Laravel/blob/master/preview%20picture%20project%20for%20github/Screenshot%20(459).png" target="_blank"><img src="https://github.com/Rexus17/Simple-CRUD-with-Captcha-Use-Laravel/blob/master/preview%20picture%20project%20for%20github/Screenshot%20(459).png" width="400"></a></p>
 
 you can update the data after your insert, and you will enter captcha before update the data
+
+<p align="center">
+<img src="https://github.com/Rexus17/Competency-Exam-Industry-World-at-Vocational-School-Tunas-Media/blob/master/preview%20picture%20project%20for%20github/cool-loading-animated-gif-10-unscreen.gif" width="100">
+</p>
